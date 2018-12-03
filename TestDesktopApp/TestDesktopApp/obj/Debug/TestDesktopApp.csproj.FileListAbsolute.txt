@@ -1,0 +1,6 @@
+C:\GitRepo\TestDesktopApp\TestDesktopApp\bin\Debug\TestDesktopApp.exe.config
+C:\GitRepo\TestDesktopApp\TestDesktopApp\bin\Debug\TestDesktopApp.exe
+C:\GitRepo\TestDesktopApp\TestDesktopApp\bin\Debug\TestDesktopApp.pdb
+C:\GitRepo\TestDesktopApp\TestDesktopApp\obj\Debug\TestDesktopApp.csprojResolveAssemblyReference.cache
+C:\GitRepo\TestDesktopApp\TestDesktopApp\obj\Debug\TestDesktopApp.exe
+C:\GitRepo\TestDesktopApp\TestDesktopApp\obj\Debug\TestDesktopApp.pdb
